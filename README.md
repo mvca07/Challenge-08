@@ -5,7 +5,6 @@ Vehicle Builder app
   
   
   ## Table of Contents
-  * [Languages & Dependencies](#languagesanddependencies)
   * [How to Use This Application](#HowtoUseThisApplication)
   * [Testing](#testing) 
   * [Contributors](#contributors)
@@ -13,9 +12,7 @@ Vehicle Builder app
   * [Questions](#questions)
   * [Video Walkthrough](#VideoWalkthrough)
   
-  
-  ## Languages & Dependencies
-   This application needs typescript and the inquirer package.
+
   
   ## How to Use This Application:
   the user should use the application following the guidelines as well as the terms and conditions.  
