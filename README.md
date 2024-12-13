@@ -2,7 +2,7 @@
 Vehicle Builder app
   
   ## Description
-  Using TypeScript the user is able to either select an existing vehicle, or build their own. They will be asked to to either choose an existing vehicle, or build a new one answering all of the questions to create the way they want. 
+  Using TypeScript the user is able to either select an existing vehicle, or build their own. They will be asked to either choose an existing vehicle, or build a new one answering all of the questions to build their vehicle the way they want. 
   
   ## Table of Contents
   * [How to Use This Application](#HowtoUseThisApplication)
