@@ -30,4 +30,4 @@ Vehicle Builder app
   Please send your questions [here](mailto:mvca07@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/mvca07](https://github.com/mvca07).
 
   ## Video Walkthrough
-  [Video](#./assets)
+  [Video](https://github.com/mvca07/Challenge-08/tree/main/assets)
